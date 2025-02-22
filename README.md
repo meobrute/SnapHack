@@ -22,22 +22,17 @@ This is the **Unveil SnapHack Bot**, a Telegram bot designed to hack Snapchat "M
   - `/feedback` - Send feedback.
   - `/daily` - Daily point check-in.
   - `/session` - Check session status.
-- Bot: https://t.me/usnapbot
-- #
-- #
-Site: <!-- From index.html -->
-meobrute.github.io/SnapHack 
+#
+#
+[meobrute.github.io/SnapHack](https://meobrute.github.io/SnapHack) 
 #
 #
 Channels:
-# 
 "Stay in the loop:- Updates: [Unveilio](https://t.me/unveilio)"
-#
-"- Vouches: [Usnap Vouches](https://t.me/usnapvouches)"
-# 
-"- Help: [Unveil Help](https://t.me/unveilhelp)"
+"Vouches: [Usnap Vouches](https://t.me/usnapvouches)" 
+"Help: [Unveil Help](https://t.me/unveilhelp)"
 ## How It Works
-- **Hacking**: hacking steps (e.g., "Unlocking 'My Eyes Only' folder...") .
+- **Hacking**: hacking steps `/hack` (e.g., "Unlocking 'My Eyes Only' folder...") .
 - **Payments**: Supports crypto (SOL, BTC, LTC, XMR, ETH), PayPal, and vouchers. Payment proof via `/sent`.
 - **Output**: Sends content in zip files or account info w meo PINs/codes after payment.
 
