@@ -26,16 +26,7 @@ This is the **Unveil SnapHack Bot**, a Telegram bot designed to hack Snapchat "M
 - #
 - #
 Site: <!-- From index.html -->
-<script type="text/javascript">
-  (function() {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.async = true;
-    script.src = "//telegram.im/widget-button/index.php?id=@usnapbot";
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
-<a href="https://telegram.im/@usnapbot" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:35px;width:270px;background:#ffe599;box-shadow:1px 1px 5px #ffe599;color:#000000;border-radius:75px;" title=""><i></i> SNAPCHAT HACKS</a>
+meobrute.github.io/SnapHack 
 #
 #
 Channels:
